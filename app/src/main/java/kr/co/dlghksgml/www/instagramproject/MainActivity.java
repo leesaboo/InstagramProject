@@ -14,6 +14,9 @@ public class MainActivity extends AppCompatActivity {
         Log.e("","");
 
         System.out.println("안녕하세요");
+        String my_name=new String();
+        my_name="mystery";
+
 
     }
 }
