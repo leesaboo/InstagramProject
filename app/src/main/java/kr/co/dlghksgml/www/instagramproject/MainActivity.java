@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("","");
 
+        System.out.println("안녕하세요");
+
     }
 }
