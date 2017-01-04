@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         my_name="mystery";
 
         System.out.println("안녕하세요");
-        String my_name=new String();
+        String your_name=new String();
         my_name="mystery";
 
 
