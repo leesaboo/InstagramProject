@@ -21,6 +21,10 @@ public class MainActivity extends AppCompatActivity {
         String your_name=new String();
         my_name="mystery";
 
+        System.out.println("안녕하세요");
+        String third_name=new String();
+        my_name="third_friends";
+
 
     }
 }
